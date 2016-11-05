@@ -1,9 +1,10 @@
 {
-	"name": "Node.js-Chat,"
-	"description": "Ein einfacher Chat mit Node.js,"
-	"author: JK,"
+	"name": "Node.js-Chat",
+	"description": "Ein einfacher Chat mit Node.js",
+	"author: JK",
+	"main": "server.js",
 	"dependencies": {
-		"express": "3.x",
+		"express": "4.13.3",
 		"socket.io": "*"
 	}
 }
